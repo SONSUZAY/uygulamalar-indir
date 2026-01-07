@@ -6,23 +6,9 @@
     <title>SONSUZ.AY | Mobil Market</title>
     
     <link rel="icon" type="image/png" href="site_simge.png">
-
-    <link rel="manifest" href="manifest.json">
-
+    
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1819947444660683"
          crossorigin="anonymous"></script>
-
-    <script>
-      if ('serviceWorker' in navigator) {
-        window.addEventListener('load', function() {
-          navigator.serviceWorker.register('sw.js').then(function(registration) {
-            console.log('ServiceWorker başarıyla kaydedildi: ', registration.scope);
-          }, function(err) {
-            console.log('ServiceWorker kaydı başarısız: ', err);
-          });
-        });
-      }
-    </script>
     
     <style>
         body {
@@ -96,7 +82,7 @@
             box-shadow: 0 0 15px rgba(255, 0, 255, 0.4);
         }
 
-        /* YILDIZAY İÇİN ÖZEL SARI İKON STİLİ (Opsiyonel) */
+        /* YILDIZAY İÇİN ÖZEL SARI İKON STİLİ */
         .icon-yildiz {
             background: linear-gradient(135deg, #FFD700, #FFA500) !important;
             box-shadow: 0 0 15px rgba(255, 215, 0, 0.4) !important;
@@ -145,6 +131,7 @@
             border-bottom: 1px solid #555; padding-bottom: 5px;
             position: relative; z-index: 2;
         }
+        .back-link:hover { color: #fff; border-bottom-color: #fff; }
         
         @media (max-width: 400px) {
             .app-card { flex-direction: column; text-align: center; }
@@ -194,7 +181,7 @@
         Uygulamalarımız virüs taramasından geçirilmiştir ve güvenlidir.
     </div>
 
-    <a href="index.html" class="back-link">⬅ Ana Sayfaya Dön</a>
+    <a href="https://sonsuzay.github.io/" class="back-link">⬅ Ana Sayfaya Dön</a>
 
     <script>
         const container = document.getElementById('starContainer');
