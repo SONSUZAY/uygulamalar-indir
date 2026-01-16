@@ -1,7 +1,7 @@
 {
   "magaza_ayarlari": {
     "magaza_adi": "SONSUZ STORE",
-    "duyuru_mesaji": "Yepyeni özelliklerle karşınızdayız!",
+    "duyuru_mesaji": "Yeni simgelerimizle yayındayız! 🚀",
     "bakim_modu": false
   },
   "uygulamalar": [
@@ -12,8 +12,8 @@
       "kategori": "Asistan",
       "boyut": "15 MB",
       "aciklama": "SonsuzAY'ın akıllı asistanı.",
-      "detay": "YıldızAY, yapay zeka destekli yerli asistanınızdır. Sorularınızı yanıtlar, matematik çözer ve günlük işlerinizde size yardımcı olur. Tamamen Türkçe ve güvenli.",
-      "ikon": "https://cdn-icons-png.flaticon.com/512/4712/4712035.png",
+      "detay": "Yapay zeka destekli yerli asistanınız.",
+      "ikon": "https://sonsuzay.github.io/uygulamalar-indir/simgeler/yildizay_simge.png",
       "apk_url": "https://sonsuzay.github.io/uygulamalar-indir/YildizAY.apk"
     },
     {
@@ -23,8 +23,8 @@
       "kategori": "Eğlence",
       "boyut": "28 MB",
       "aciklama": "Eğlenceli oyunlar paketi.",
-      "detay": "Canınız mı sıkıldı? SonsuzAY Oyunları ile internetsiz yarış, bulmaca ve aksiyon oyunlarını tek pakette oynayın. Reklamsız ve ücretsizdir.",
-      "ikon": "https://cdn-icons-png.flaticon.com/512/686/686589.png",
+      "detay": "İnternetsiz oyun keyfi.",
+      "ikon": "https://sonsuzay.github.io/uygulamalar-indir/simgeler/sonsuzay_simge.png",
       "apk_url": "https://sonsuzay.github.io/uygulamalar-indir/SonsuzAY_Oyunlari.apk"
     }
   ]
