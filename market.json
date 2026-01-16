@@ -1,7 +1,7 @@
 {
   "magaza_ayarlari": {
     "magaza_adi": "SONSUZ STORE",
-    "duyuru_mesaji": "Yeni simgelerimizle yayındayız! 🚀",
+    "duyuru_mesaji": "SonsuzAY Store v1.0 Resmi Sürümü Yayında! 🚀",
     "bakim_modu": false
   },
   "uygulamalar": [
@@ -12,7 +12,8 @@
       "kategori": "Asistan",
       "boyut": "15 MB",
       "aciklama": "SonsuzAY'ın akıllı asistanı.",
-      "detay": "Yapay zeka destekli yerli asistanınız.",
+      "detay": "Sohbet edebilen, feneri açıp kapatan ve mini oyunlar içeren gelişmiş yapay zeka asistanı.",
+      "gelistirici_notu": "Beta aşamasından kararlı sürüme geçiş yapıldı. Sesli komut yapısı optimize edildi.",
       "ikon": "https://sonsuzay.github.io/uygulamalar-indir/simgeler/yildizay_simge.png",
       "apk_url": "https://sonsuzay.github.io/uygulamalar-indir/YildizAY.apk"
     },
@@ -23,9 +24,22 @@
       "kategori": "Eğlence",
       "boyut": "28 MB",
       "aciklama": "Eğlenceli oyunlar paketi.",
-      "detay": "İnternetsiz oyun keyfi.",
+      "detay": "Tüm oyunlara ve araçlara tek yerden erişin. İnternetsiz oyun keyfi.",
+      "gelistirici_notu": "Yeni HTML5 oyunlar eklendi ve performans iyileştirmeleri yapıldı.",
       "ikon": "https://sonsuzay.github.io/uygulamalar-indir/simgeler/sonsuzay_simge.png",
       "apk_url": "https://sonsuzay.github.io/uygulamalar-indir/SonsuzAY_Oyunlari.apk"
+    },
+    {
+      "id": 3,
+      "ad": "SonsuzAY Store",
+      "surum": "1.0",
+      "kategori": "Araçlar",
+      "boyut": "2.36 MB",
+      "aciklama": "Resmi uygulama mağazası.",
+      "detay": "Play Store'a bağımlı kalmadan, tüm SonsuzAY uygulamalarını tek tıkla cihazınıza indirin ve güncelleyin.",
+      "gelistirici_notu": "Resmi imza (JKS) ile mühürlenmiş ilk kararlı sürüm. Ultra sıkıştırma ile dosya boyutu optimize edildi.",
+      "ikon": "https://sonsuzay.github.io/uygulamalar-indir/simgeler/sonsuzay_store_simge.png",
+      "apk_url": "https://sonsuzay.github.io/uygulamalar-indir/SonsuzAY_Store.apk"
     }
   ]
 }
