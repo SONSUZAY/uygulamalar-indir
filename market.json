@@ -1,0 +1,27 @@
+{
+  "magaza_ayarlari": {
+    "magaza_adi": "SONSUZ STORE",
+    "duyuru_mesaji": "SonsuzAY Ekosistemine Hoş Geldiniz! 🚀",
+    "bakim_modu": false
+  },
+  "uygulamalar": [
+    {
+      "id": 1,
+      "ad": "YıldızAY",
+      "surum": "1.0",
+      "kategori": "Asistan",
+      "aciklama": "SonsuzAY'ın geliştirdiği akıllı yapay zeka asistanı. Sorularını yanıtlar ve sana yardımcı olur.",
+      "ikon": "https://cdn-icons-png.flaticon.com/512/4712/4712035.png",
+      "apk_url": "https://sonsuzay.github.io/uygulamalar-indir/YildizAY.apk"
+    },
+    {
+      "id": 2,
+      "ad": "SonsuzAY Oyunları",
+      "surum": "1.0",
+      "kategori": "Eğlence",
+      "aciklama": "SonsuzAY tarafından geliştirilen keyifli HTML5 oyunları paketi.",
+      "ikon": "https://cdn-icons-png.flaticon.com/512/686/686589.png",
+      "apk_url": "https://sonsuzay.github.io/uygulamalar-indir/SonsuzAY_Oyunlari.apk"
+    }
+  ]
+}
